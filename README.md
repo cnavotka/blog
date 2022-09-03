@@ -36,6 +36,10 @@ I decided to organise a "Blog" or notepad with ideas or concepts for a future we
 
 #### Future Features
 
+- Newsletter subscription
+- Add a blog section so users can leave comments or experiences
+
+
 ### Technologies Used
 
 - Gitpod
