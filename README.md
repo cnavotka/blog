@@ -29,6 +29,10 @@ The website is aimed at users who want to learn about cyber security or they are
 - As a site visitor, I would like to find the aesthetics of the website enjoyable and I want to use interactive elements on the website.
 
 
+### Colours
+
+I decided to use a light gray background with black and blue to mimick the Gopher Protocol, used during my firsts contacts with the Internet.
+
 ### Strategy
 
 ### Scope
