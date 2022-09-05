@@ -57,6 +57,11 @@ I decided to use Prompt, to make easy the reading considering the clourway of th
 
 #### Existing Features
 
+- Home page
+- About page
+- Articles and links
+- Contact page
+
 #### Future Features
 
 - Newsletter subscription
