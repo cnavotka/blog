@@ -33,6 +33,10 @@ The website is aimed at users who want to learn about cyber security or they are
 
 I decided to use a light gray background with black and blue to mimick the Gopher Protocol, used during my firsts contacts with the Internet.
 
+### Fonts
+
+I decided to use Prompt, to make easy the reading considering the clourway of the project is retro.
+
 ### Strategy
 
 ### Scope
