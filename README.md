@@ -131,5 +131,7 @@ To create a local copy of the repository please follow the below steps:
 
 ### Credits
 
+- Some information and articles are writing after use Labs from infosec.com
+
 ### Acknowledgments
 
